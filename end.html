@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congrates!</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="container">
+        <div class="flex-center flex-column">
+            <h1 id="finalScore">0</h1>
+                <form>
+                    <input type="text" id="username" name="Username" placeholder="Username">
+                    <button class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>Submit to leaderboard</button>
+                </form>
+                <a class="btn">Go home</a>
+                <a class="btn">Play again</a>
+        </div>
+    </div>
+</body>
+<script src="end.js"></script>
+</html>

@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Define the term 'legal age of reponsability'",
+        "choice1": "The age someone can drink alchol",
+        "choice2": "The age your considered a child",
+        "choice3": "The age you are responsable for crime you commit",
+        "choice4": "I don't know",
+        "answer": 3
+    },
+    {
+        "question":
+            "What is the legal age of responability in England?",
+        "choice1": "12",
+        "choice2": "10",
+        "choice3": "13",
+        "choice4": "16",
+        "answer": 2
+    },
+    {
+        "question": " How is a moral right differant to a legal right?",
+        "choice1": "Moral are what you expect, while legal rights are expected by law",
+        "choice2": "moral rights are kind, while legal are unfair",
+        "choice3": "moral rights are in the UK, while legal rights are only in the USA",
+        "choice4": "Got no clue mate!",
+        "answer": 1
+    }
+]
